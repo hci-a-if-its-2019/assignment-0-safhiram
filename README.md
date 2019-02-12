@@ -32,6 +32,5 @@ I think , it should have a privacy for the password and regex for validation.
 </p>
 
 <h2>VIDEO REVIEW <i>itsfood.com</i></h2>
-<video>
-	<source src="https://youtu.be/niNvSQ4njpA" type="video/mp4">
+<video src="https://youtu.be/niNvSQ4njpA" controls>
 </video>
