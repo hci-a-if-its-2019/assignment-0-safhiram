@@ -31,6 +31,4 @@ I think , it should have a privacy for the password and regex for validation.
 	There are many of button which not redirect as should be. It just become a decoration for the website. In my opinion, it should have redirect in instagram its food, facebook its food, and etc.
 </p>
 
-<h2>VIDEO REVIEW <i>itsfood.com</i></h2>
-<video src="https://youtu.be/niNvSQ4njpA" controls>
-</video>
+<h2><a src="https://youtu.be/niNvSQ4njpA">VIDEO REVIEW <i>itsfood.com</i></a></h2>
