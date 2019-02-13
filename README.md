@@ -15,11 +15,11 @@
 </p>
 <img src="1.PNG" style ="width:100%;"></img>
 <p>
-	On the Sign In fiture, there is no button for forgot password, if user forgot her password , there is no solusion except register again. It should have forgot password button. Next, Sign in fiture appear when we just look the food, beverages and snacks evertytime. In my opinion, this is a distruption. i think, sign in fiture should just appear when we deliver food, beverages and snacks.
+	On the Sign In feature, there is no button for forgot password, if user forgot her password , there is no solusion except register again. It should have forgot password button. Next, Sign in feature appear when we just look the food, beverages and snacks evertytime. In my opinion, this is a distruption. i think, sign in feature should just appear when we deliver food, beverages and snacks.
 </p>
 <img src="2.PNG" style ="width:100%;"></img>
 <p>
-	On the Register fiture, we just fill one password, there is no confirm password. If there is something wrong with the password when we register, there is no solution except register again. It should have confirm password input.
+	On the Register feature, we just fill one password, there is no confirm password. If there is something wrong with the password when we register, there is no solution except register again. It should have confirm password input.
 </p>
 <img src="6.PNG" style ="width:100%;"></img>
 <p>
